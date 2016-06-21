@@ -38,3 +38,4 @@ C:\dev\SFA\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\b
 C:\dev\SFA\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Debug\SFA.DAS.MaintenancePage.csprojResolveAssemblyReference.cache
 C:\dev\SFA\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Debug\SFA.DAS.MaintenancePage.dll
 C:\dev\SFA\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Debug\SFA.DAS.MaintenancePage.pdb
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Debug\SFA.DAS.MaintenancePage.csprojResolveAssemblyReference.cache
