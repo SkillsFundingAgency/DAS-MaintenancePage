@@ -1,4 +1,3 @@
-C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Release\SFA.DAS.MaintenancePage.csprojResolveAssemblyReference.cache
 C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\csc.exe
 C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -38,3 +37,18 @@ C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.Maintenanc
 C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\System.Web.Mvc.xml
 C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Release\SFA.DAS.MaintenancePage.dll
 C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Release\SFA.DAS.MaintenancePage.pdb
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\csc.exe.config
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\csc.rsp
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\csi.exe
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\csi.rsp
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\System.AppContext.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\System.IO.FileSystem.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\vbc.exe.config
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\bin\roslyn\vbc.rsp
+C:\Code\SFA\Repos\DAS-MaintenancePage\SFA.DAS.MaintenancePage\SFA.DAS.MaintenancePage\obj\Release\SFA.DAS.MaintenancePage.csprojResolveAssemblyReference.cache
