@@ -16,11 +16,6 @@ namespace SFA.DAS.MaintenancePage
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
-
-        protected void Application_Error()
-        {
-            Response.Clear();
-            Response.Redirect("Unavailable.html");
-        }
+        
     }
 }
