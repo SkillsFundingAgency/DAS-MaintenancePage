@@ -12,6 +12,8 @@ namespace SFA.DAS.MaintenancePage
     {
         protected void Application_Start()
         {
+            MvcHandler.DisableMvcResponseHeader = true;
+
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
